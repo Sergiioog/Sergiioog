@@ -1,11 +1,14 @@
 <div id="tituloPrincipal">
   <p align="center">
     <img src="text.gif">
-</p>
+  </p>
 </div>
-<br>
+<hr style="">
+
 <div id="quienSoy">
-  <h2 align="center">ABOUT ME</h2>
+  <p align="center">
+    <img src="aboutme.gif">
+  </p>
 </div>
 
 
