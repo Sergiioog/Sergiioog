@@ -11,4 +11,16 @@
   </p>
 </div>
 
+<div id="skills">
+  <p align="center">
+    <img src="aboutme.gif">
+  </p>
+</div>
+
+<div id="socialNetworks">
+  <p align="center">
+    <img src="aboutme.gif">
+  </p>
+</div>
+
 
