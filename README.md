@@ -1,8 +1,9 @@
 <div align="center">
   <img src="result.gif">
  </div>
-<h1 align="center">😁 Hello World! 🌍</h1>
-- 📚 I´m currently studying at U-Tad a **Superior Degree about Frontend Application Development**
+<hr>
+<h2>ABOUT ME</h2>
+* My name is Sergio García and I like to code :)
 
 - 👨‍💻 My Portfolio & Projects => [link](link)
 
@@ -29,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiioog&show_icons=true&locale=en" alt="sergiioog" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiioog&theme=dark" alt="sergiioog" /></p>
+
 
 
 
