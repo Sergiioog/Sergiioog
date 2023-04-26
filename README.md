@@ -1,5 +1,7 @@
-
-<h1 align="center">Hi!! 👋 I´m Sergio García :)</h1>
+<div align="center">
+  <img src="result.gif">
+ </div>
+<h1 align="center">😁 Hello World! 🌍</h1>
 - 📚 I´m currently studying at U-Tad a **Superior Degree about Frontend Application Development**
 
 - 👨‍💻 My Portfolio & Projects => [link](link)
@@ -21,6 +23,17 @@
  <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Sergiioog&theme=javascript&hide_border=true&border_radius=20&locale=es&date_format=n%2Fj%5B%2FY%5D&border=000000" alt="GitHub Streak" /></a>
 </div>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiioog&show_icons=true&theme=dark&bg_color=f0ff1f&hide_border=true&locale=en&layout=compact" alt="sergiioog" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiioog&show_icons=true&locale=en" alt="sergiioog" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiioog&theme=dark" alt="sergiioog" /></p>
+
+
+
+
 
 
 
