@@ -6,7 +6,7 @@
 </div>
 
 
-- 👦 Hi! My name is **Sergio** and at the moment **I´m studying to be a Web Developer**
+- 👦 Hi! My name is **Sergio** and at the moment **I´m studying a Web Developer Degree**
 - 👨‍💻 My Portfolio & Projects => [soon...](link)
 - 👀 Read my articles at => [soon...](link)
 - 🗣️ Some lenguages, I frecuently use => **HTML,CSS,JavaScript,Java,Linux,SQL... and much more!** 
