@@ -43,12 +43,13 @@
 <h1 align="center">🐱 GITHUB STATS 🐱</h3>
  <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?      user=Sergiioog&theme=javascript&hide_border=true&border_radius=20&locale=es&date_format=n%2Fj%5B%2FY%5D&border=000000" alt="GitHub Streak" /></a>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiioog&show_icons=true&locale=en" alt="sergiioog" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiioog&show_icons=true&theme=dark&bg_color=f0ff1f&hide_border=true&locale=en&layout=compact" alt="sergiioog" /></p>
+
+
 </div>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiioog&show_icons=true&theme=dark&bg_color=f0ff1f&hide_border=true&locale=en&layout=compact" alt="sergiioog" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiioog&show_icons=true&locale=en" alt="sergiioog" /></p>
 
 
 
