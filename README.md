@@ -17,7 +17,7 @@
 
 <h1 align="center">🧩 CONNECT WITH ME 🏃‍♂️</h1>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergiogarciagordo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergiogarciagordo/" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/sergiogarciagordo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergiogarciagordo/" height="35" width="35" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccdojqwcigfhva06hpzyohg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccdojqwcigfhva06hpzyohg" height="50" width="50" /></a>
 </p>
 <h1 align="center">🗣 LANGUAGES AND TOOLS 🗣</h3>
