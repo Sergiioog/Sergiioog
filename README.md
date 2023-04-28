@@ -40,9 +40,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> </p>
 
-
+<h1 align="center">GITHUB STATS</h3>
  <div align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Sergiioog&theme=javascript&hide_border=true&border_radius=20&locale=es&date_format=n%2Fj%5B%2FY%5D&border=000000" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?   user=Sergiioog&theme=javascript&hide_border=true&border_radius=20&locale=es&date_format=n%2Fj%5B%2FY%5D&border=000000" alt="GitHub Streak" /></a>
 </div>
 
 
