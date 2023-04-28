@@ -2,7 +2,7 @@
   <img src="result.gif">
  </div>
 <div align="center">
-  <h1>ABOUT ME</h1>
+  <h1>🧑 ABOUT ME 🧑</h1>
 </div>
 
 
@@ -15,8 +15,8 @@
   <img src="IMG_1032.jpeg" style="width: 200px; height: 280px;">
 </div>
 
-<h1 align="center">CONNECT WITH ME</h1>
-<h1 align="center">LANGUAGES AND TOOLS</h3>
+<h1 align="center">🧩 CONNECT WITH ME 🏃‍♂️</h1>
+<h1 align="center">🗣 LANGUAGES AND TOOLS 🗣</h3>
 
 
 
@@ -40,13 +40,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> </p>
 
-<h1 align="center">GITHUB STATS</h3>
+<h1 align="center">🐱 GITHUB STATS 🐱</h3>
  <div align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?   user=Sergiioog&theme=javascript&hide_border=true&border_radius=20&locale=es&date_format=n%2Fj%5B%2FY%5D&border=000000" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?      user=Sergiioog&theme=javascript&hide_border=true&border_radius=20&locale=es&date_format=n%2Fj%5B%2FY%5D&border=000000" alt="GitHub Streak" /></a>
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiioog&show_icons=true&theme=dark&bg_color=f0ff1f&hide_border=true&locale=en&layout=compact" alt="sergiioog" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiioog&show_icons=true&theme=dark&bg_color=f0ff1f&hide_border=true&locale=en&layout=compact" alt="sergiioog" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiioog&show_icons=true&locale=en" alt="sergiioog" /></p>
 
