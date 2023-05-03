@@ -11,7 +11,7 @@
 - 👀 Read my articles at => [soon...](link)
 - 🗣️ Some lenguages, I frecuently use => **HTML,CSS,JavaScript,Java,Linux,SQL... and much more!** 
 - ✉️ Contact me at => **sergiogargor9@gmail.com**
-<div>
+<div align="center">
   <img src="IMG_1032.jpeg" style="width: 200px; height: 280px;">
 </div>
 
