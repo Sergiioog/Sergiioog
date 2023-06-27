@@ -6,7 +6,7 @@
 👨‍💻 Hi! My name is Sergio García<br>
 👤 Currently, I´m studying to become a FrontEnd Dev<br>
 💬 Ask me about<br>
-✅ [My portfolio]([sergiioog.github.io](https://sergiioog.github.io/))<br>
+✅ [My portfolio](https://sergiioog.github.io/)<br>
 📩 Contact me at => sergiogargor9@gmail.com
 
 
