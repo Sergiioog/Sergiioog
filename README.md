@@ -3,7 +3,11 @@
 </div>
 
 # 💫 About Me:
-👨‍💻 Hi! My name is Sergio García<br>👤 Currently, I´m studying to become a FrontEnd Dev<br>💬 Ask me about<br>✅ myportfolio<br>📩 Contact me at => sergiogargor9@gmail.com
+👨‍💻 Hi! My name is Sergio García<br>
+👤 Currently, I´m studying to become a FrontEnd Dev<br>
+💬 Ask me about<br>
+✅ [My portfolio](sergiioog.github.io)<br>
+📩 Contact me at => sergiogargor9@gmail.com
 
 
 # 🌐 Social Networks:
