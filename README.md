@@ -5,7 +5,7 @@
 # 💫 About Me:
 👨‍💻 Hi! My name is Sergio García<br>
 👤 Currently, I´m studying to become a FrontEnd Dev<br>
-💬 Ask me about<br>
+💬 Ask me about HTML, CSS, JS, Node, Angular...<br>
 ✅ [My portfolio](https://sergiioog.github.io/)<br>
 📩 Contact me at => sergiogargor9@gmail.com
 
