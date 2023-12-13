@@ -4,7 +4,6 @@
 
 # 💫 About Me:
 👨‍💻 Hi! My name is Sergio García<br>
-👨‍💻 I dont like to work<br>
 👤 Currently, I´m studying to become a FrontEnd Dev<br>
 💬 Ask me about HTML, CSS, JS, Node, Angular...<br>
 👀 Check my starred repositories to see them filtered by programming langugage<br>
