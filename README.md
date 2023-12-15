@@ -6,7 +6,7 @@
 👨‍💻 Hi! My name is Sergio García<br>
 👤 Currently, I´m studying to become a FrontEnd Dev<br>
 💬 Ask me about HTML, CSS, JS, Node, Angular...<br>
-👀 Check my starred repositories to see them filtered by programming langugage<br>
+👀 Check my starred repositories to see them filtered by programming language<br>
 📃 Look my Curriculum -> [curriculum](https://github.com/Sergiioog/Curriculum_Sergio)<br>
 ✅ My portfolio -> [port](https://github.com/Sergiioog/sergiioog.github.io/)<br>
 📩 Contact me at => sergiogargor9@gmail.com
